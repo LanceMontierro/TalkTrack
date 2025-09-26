@@ -4,7 +4,7 @@ import React from 'react'
 export default function Index() {
     return (
         <View>
-            <Text>HAHAHAHAHAHAHAHAHA</Text>
+                <Text>HAHAHAHAHAHAHAHHA</Text>
         </View>
     )
 }
